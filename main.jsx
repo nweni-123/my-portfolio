@@ -31,7 +31,7 @@ function App() {
 
       <div className="hero-box">
   <div className="profile-circle">
-    <img src="./profile.jpg" alt="My Profile" />
+    <img src="/profile.jpg" alt="My Profile" />
   </div>
 
   <h3>Welcome to my portfolio</h3>
